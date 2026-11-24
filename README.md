@@ -1,5 +1,7 @@
 Есть только такой пруф того, что я сделал дз до дд, а потом забыл его сдать. На случай если вы меня решите помиловать(
 <img width="1076" height="198" alt="image" src="https://github.com/user-attachments/assets/ed2a9745-d12a-4fd5-8438-b3c25f63529c" />
+А вот время коммита, c которым оно совпадает
+<img width="681" height="71" alt="image" src="https://github.com/user-attachments/assets/6f46ad92-c826-48d5-8187-bfa2e93dda63" />
 
 ## 4 балла — один контейнер
 Команды сборки и запуска:
